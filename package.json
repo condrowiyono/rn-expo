@@ -9,13 +9,28 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@ant-design/icons-react-native": "^2.3.2",
+    "@ant-design/react-native": "^5.0.3",
+    "@expo/webpack-config": "^18.0.1",
+    "@react-native-camera-roll/camera-roll": "^5.2.3",
+    "@react-native-community/segmented-control": "^2.2.2",
+    "@react-native-community/slider": "^4.4.2",
+    "@react-native-picker/picker": "^2.4.8",
+    "@types/react": "~18.0.24",
+    "@types/react-native": "~0.70.6",
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-dom": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-reanimated": "^2.14.4",
+    "react-native-web": "~0.18.9"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
   },
   "private": true
 }
